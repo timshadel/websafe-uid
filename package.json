@@ -1,6 +1,6 @@
 {
   "name": "websafe-uid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate websafe unique ids.",
   "keywords": ["websafe", "uid", "unique"],
   "author": "Tim Shadel <tim@shadelsoftware.com>",
