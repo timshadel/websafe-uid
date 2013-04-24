@@ -6,8 +6,10 @@
 ## Example
 
 ```js
- utils.uid(10);
- // => "FDaS435D2z"
+var websafe = require('websafe-uid');
+
+websafe.uid(10);
+// => "FDaS435D2z"
 ```
 
 ## License 

@@ -4,10 +4,14 @@
   "description": "Generate websafe unique ids.",
   "keywords": ["websafe", "uid", "unique"],
   "author": "Tim Shadel <tim@shadelsoftware.com>",
+  "repository": { "type": "git", "url": "git+https://github.com/timshadel/websafe-uid.git" },
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "expect.js": "*"
+  },
+  "scripts": {
+    "test": "mocha"
   },
   "main": "index"
 }
