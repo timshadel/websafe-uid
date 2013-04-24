@@ -1,5 +1,5 @@
 
-# websafe-uid
+# websafe-uid [![Build Status](https://travis-ci.org/timshadel/websafe-uid.png?branch=master)](https://travis-ci.org/timshadel/websafe-uid)
 
   Generate websafe random strings.
 
